@@ -63,7 +63,7 @@ Users should be able to:
 
 - [A complete guide to CSS Grid | CSS-TRICKS](https://css-tricks.com/snippets/css/complete-guide-grid/) : This article has divided properties into two sections based on what goes on grid-container (parent) and grid-items (child) with descriptive diagrams and code snippets which helped me understand well. I'd recommend to anyone interested in learning grid layout.
 
-- [Techniques of layering box shadows | Tobias Ahlin](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) : Very interesting article that talks about different ways to layer box shadows.
+- [Layering box shadows | Tobias Ahlin](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) : A very interesting article that talks about different ways to layer box shadows.
 
 
 ## Author
