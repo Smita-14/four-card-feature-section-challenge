@@ -107,7 +107,13 @@ img {
 
 .card {
     max-width: 20.67rem;
-    box-shadow: 0 4px 30px var(--grayish-blue);
+    box-shadow: 
+    0 1px 4px hsla(0, 52%, 8%, 0.04),
+    0 4px 8px hsla(0, 0%, 0%, 0.04),
+    0 8px 10px hsla(0, 0%, 0%, 0.04),
+    0 10px 12px hsla(0, 0%, 0%, 0.02),
+    0 12px 16px hsla(0, 0%, 0%, 0.02),
+    0 16px 24px hsla(0, 0%, 0%, 0.02);
     background-color: var(--light-gray);
     border-radius: 6px;
     border-top-width: 4px;
