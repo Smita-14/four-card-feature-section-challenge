@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on FrontendMentor.io]()
+- Solution URL: [Solution on FrontendMentor.io](https://www.frontendmentor.io/solutions/css-grid-and-mobile-first-workflow-Xv6D-HaP-)
 - Live Site URL: [Live site preview](https://smita-14.github.io/four-card-feature-section-challenge/)
 
 ## My process
@@ -63,6 +63,8 @@ Users should be able to:
 
 - [A complete guide to CSS Grid | CSS-TRICKS](https://css-tricks.com/snippets/css/complete-guide-grid/) : This article has divided properties into two sections based on what goes on grid-container (parent) and grid-items (child) with descriptive diagrams and code snippets which helped me understand well. I'd recommend to anyone interested in learning grid layout.
 
+- [Techniques of layering box shadows | Tobias Ahlin](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) : Very interesting article that talks about different ways to layer box shadows.
+
 
 ## Author
 
@@ -71,4 +73,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Many thanks to the [Frontend Mentor team](https://www.frontendmentor.io/) and the community for giving me the opportunity to grow and learn. 💖💖
+Many thanks to the [Frontend Mentor team](https://www.frontendmentor.io/) and the community for giving me the opportunity to learn and grow. 💖💖
